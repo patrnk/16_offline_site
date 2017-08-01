@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+Site template prepared to work without internet connection. Its dependencies are organized in accordance with [this](http://appcropolis.com/blog/web-technology/organize-html-css-javascript-files/) post.
 
 # Project Goals
 
